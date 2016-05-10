@@ -1,0 +1,29 @@
+name: familyfederation.ch
+favicon: null
+layout_spectrum: 0.6910968287847936
+typography_spectrum: 0.28807869739830494
+title: Family Federation for World Peace and Unification (Switzerland)
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.10446298192255199
+  lightness: 0.5231630278285593
+  saturation: 0.6547815878875554
+  rhythmicContrast: 0.6451809229329228
+purpose: []
